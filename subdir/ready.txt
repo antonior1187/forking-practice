@@ -1,1 +1,1 @@
-Hi, This is a ready file.
+Hi, This is a ready file. Not Ready can't be ready yet.
